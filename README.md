@@ -77,7 +77,7 @@ Eğer uygulama üzerinde bazı özelleştirmeler yapmak isterseniz, aşağıdaki
 
 ## Lisans
 
-Bu proje [MIT Lisansı](https://opensource.org/licenses/MIT) ile lisanslanmıştır.
+Bu proje [MIT Lisansı](https://opensource.org/licenses/MIT) ile lisanslanmıştır. Daha fazla bilgi için [LICENSE](/emchorian/horian-password-manager/blob/main/LICENSE) dosyasına bakabilirsiniz.
 
 ## İletişim
 
