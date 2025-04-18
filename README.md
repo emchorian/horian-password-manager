@@ -45,6 +45,7 @@ Kullanıcıyı silmek için, ilgili kullanıcıyı seçip "Sil" butonuna tıklay
 2. **Visual Studio ile Açma**: İndirilen projeyi Visual Studio veya benzeri bir IDE ile açın.
 3. **Bağımlılıkları Yükleme**: Projeyi açtıktan sonra gerekli bağımlılıkları yüklemek için Visual Studio'da "NuGet" paket yöneticisini kullanın.
 4. **Uygulamayı Çalıştırma**: Proje yapılandırması tamamlandıktan sonra, `Horian_Şifre_Yöneticisi` projesini çalıştırarak uygulamayı başlatın.
+5. **Not**: İsteğe bağlı [Horian Şifre Yöneticisi/bin/Debug](https://github.com/emchorian/horian-password-manager/tree/main/Horian%20%C5%9Eifre%20Y%C3%B6neticisi/bin/Debug) kısmından exe şeklinde çalıştırılabilir.
 
 ## Konfigürasyon
 
