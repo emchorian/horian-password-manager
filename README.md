@@ -11,6 +11,7 @@ Bu proje **emchorian** tarafından yapılmış ve **Horian Studios** çatısınd
 - **Kullanıcı Güncelleme**: Mevcut kullanıcı verilerini düzenleyebilir ve dosyadaki bilgileri güncelleyebilirsiniz.
 - **Kullanıcı Silme**: Kullanıcıyı veritabanından silmek için kullanıcı verileri dosyasından çıkartılır.
 - **H Logo ile Ana Sayfaya Dönme**: Sol üst köşede bulunan "H" logosuna basarak ana sayfaya geri dönebilirsiniz.
+- **Kullanıcı Adı ve Şifre**: Kullanıcı adı ve şifre `admin:admin123` olarak varsayılan bir şekilde gelir.
 
 ## Kullanım
 
@@ -51,7 +52,7 @@ Kullanıcıyı silmek için, ilgili kullanıcıyı seçip "Sil" butonuna tıklay
 
 Eğer uygulama üzerinde bazı özelleştirmeler yapmak isterseniz, aşağıdaki değişiklikleri yapabilirsiniz:
 
-- **Kullanıcı Adı ve Şifreyi Değiştirme**: Giriş ekranındaki kullanıcı adı ve şifreyi değiştirmek için `giris_form.cs` dosyasındaki 84-85. satırları ile 117-118. satırlarını düzenlemeniz gerekmektedir.
+- **Kullanıcı Adı ve Şifreyi Değiştirme**: Kullanıcı adı ve şifre `admin:admin123` olarak varsayılan bir şekilde gelir. Giriş ekranındaki kullanıcı adı ve şifreyi değiştirmek için `giris_form.cs` dosyasındaki 84-85. satırları ile 117-118. satırlarını düzenlemeniz gerekmektedir.
   
 - **Yüklenme ve Giriş Ekranını Atlamak**: Eğer programı açarken yüklenme ve giriş ekranlarını atlamak isterseniz, `program.cs` dosyasındaki 19. satırdaki `Application.Run(new yuklenme_form());` kodunu `Application.Run(new hesap_listesi_form());` olarak değiştirebilirsiniz.
 
