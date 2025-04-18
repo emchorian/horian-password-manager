@@ -1,0 +1,18 @@
+C:\Users\emchorian\Desktop\Horian Şifre Yöneticisi\Horian Şifre Yöneticisi\bin\Release\Horian Şifre Yöneticisi.exe.config
+C:\Users\emchorian\Desktop\Horian Şifre Yöneticisi\Horian Şifre Yöneticisi\bin\Release\Horian Şifre Yöneticisi.exe
+C:\Users\emchorian\Desktop\Horian Şifre Yöneticisi\Horian Şifre Yöneticisi\bin\Release\Horian Şifre Yöneticisi.pdb
+C:\Users\emchorian\Desktop\Horian Şifre Yöneticisi\Horian Şifre Yöneticisi\bin\Release\Guna.UI2.dll
+C:\Users\emchorian\Desktop\Horian Şifre Yöneticisi\Horian Şifre Yöneticisi\obj\Release\Horian Şifre Yöneticisi.csproj.AssemblyReference.cache
+C:\Users\emchorian\Desktop\Horian Şifre Yöneticisi\Horian Şifre Yöneticisi\obj\Release\Horian_Şifre_Yöneticisi.anasayfa_form.resources
+C:\Users\emchorian\Desktop\Horian Şifre Yöneticisi\Horian Şifre Yöneticisi\obj\Release\Horian_Şifre_Yöneticisi.giris_form.resources
+C:\Users\emchorian\Desktop\Horian Şifre Yöneticisi\Horian Şifre Yöneticisi\obj\Release\Horian_Şifre_Yöneticisi.güncelleme_form.resources
+C:\Users\emchorian\Desktop\Horian Şifre Yöneticisi\Horian Şifre Yöneticisi\obj\Release\Horian_Şifre_Yöneticisi.hesap_frame_form.resources
+C:\Users\emchorian\Desktop\Horian Şifre Yöneticisi\Horian Şifre Yöneticisi\obj\Release\Horian_Şifre_Yöneticisi.hesap_kaydetme_form.resources
+C:\Users\emchorian\Desktop\Horian Şifre Yöneticisi\Horian Şifre Yöneticisi\obj\Release\Horian_Şifre_Yöneticisi.hesap_listesi_form.resources
+C:\Users\emchorian\Desktop\Horian Şifre Yöneticisi\Horian Şifre Yöneticisi\obj\Release\Horian_Şifre_Yöneticisi.Properties.Resources.resources
+C:\Users\emchorian\Desktop\Horian Şifre Yöneticisi\Horian Şifre Yöneticisi\obj\Release\Horian_Şifre_Yöneticisi.yuklenme_form.resources
+C:\Users\emchorian\Desktop\Horian Şifre Yöneticisi\Horian Şifre Yöneticisi\obj\Release\Horian Şifre Yöneticisi.csproj.GenerateResource.cache
+C:\Users\emchorian\Desktop\Horian Şifre Yöneticisi\Horian Şifre Yöneticisi\obj\Release\Horian Şifre Yöneticisi.csproj.CoreCompileInputs.cache
+C:\Users\emchorian\Desktop\Horian Şifre Yöneticisi\Horian Şifre Yöneticisi\obj\Release\Horian _.CF1B91B5.Up2Date
+C:\Users\emchorian\Desktop\Horian Şifre Yöneticisi\Horian Şifre Yöneticisi\obj\Release\Horian Şifre Yöneticisi.exe
+C:\Users\emchorian\Desktop\Horian Şifre Yöneticisi\Horian Şifre Yöneticisi\obj\Release\Horian Şifre Yöneticisi.pdb

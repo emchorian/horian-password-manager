@@ -1,0 +1,54 @@
+C:\Users\36emc\OneDrive\Masaüstü\Horian Şifre Yöneticisi\Horian Şifre Yöneticisi\bin\Debug\Horian Şifre Yöneticisi.exe.config
+C:\Users\36emc\OneDrive\Masaüstü\Horian Şifre Yöneticisi\Horian Şifre Yöneticisi\bin\Debug\Horian Şifre Yöneticisi.exe
+C:\Users\36emc\OneDrive\Masaüstü\Horian Şifre Yöneticisi\Horian Şifre Yöneticisi\bin\Debug\Horian Şifre Yöneticisi.pdb
+C:\Users\36emc\OneDrive\Masaüstü\Horian Şifre Yöneticisi\Horian Şifre Yöneticisi\bin\Debug\Guna.UI2.dll
+C:\Users\36emc\OneDrive\Masaüstü\Horian Şifre Yöneticisi\Horian Şifre Yöneticisi\obj\Debug\Horian Şifre Yöneticisi.csproj.AssemblyReference.cache
+C:\Users\36emc\OneDrive\Masaüstü\Horian Şifre Yöneticisi\Horian Şifre Yöneticisi\obj\Debug\Horian_Şifre_Yöneticisi.anasayfa_form.resources
+C:\Users\36emc\OneDrive\Masaüstü\Horian Şifre Yöneticisi\Horian Şifre Yöneticisi\obj\Debug\Horian_Şifre_Yöneticisi.giris_form.resources
+C:\Users\36emc\OneDrive\Masaüstü\Horian Şifre Yöneticisi\Horian Şifre Yöneticisi\obj\Debug\Horian_Şifre_Yöneticisi.hesap_frame_form.resources
+C:\Users\36emc\OneDrive\Masaüstü\Horian Şifre Yöneticisi\Horian Şifre Yöneticisi\obj\Debug\Horian_Şifre_Yöneticisi.hesap_kaydetme_form.resources
+C:\Users\36emc\OneDrive\Masaüstü\Horian Şifre Yöneticisi\Horian Şifre Yöneticisi\obj\Debug\Horian_Şifre_Yöneticisi.hesap_listesi_form.resources
+C:\Users\36emc\OneDrive\Masaüstü\Horian Şifre Yöneticisi\Horian Şifre Yöneticisi\obj\Debug\Horian_Şifre_Yöneticisi.Properties.Resources.resources
+C:\Users\36emc\OneDrive\Masaüstü\Horian Şifre Yöneticisi\Horian Şifre Yöneticisi\obj\Debug\Horian_Şifre_Yöneticisi.yuklenme_form.resources
+C:\Users\36emc\OneDrive\Masaüstü\Horian Şifre Yöneticisi\Horian Şifre Yöneticisi\obj\Debug\Horian Şifre Yöneticisi.csproj.GenerateResource.cache
+C:\Users\36emc\OneDrive\Masaüstü\Horian Şifre Yöneticisi\Horian Şifre Yöneticisi\obj\Debug\Horian Şifre Yöneticisi.csproj.CoreCompileInputs.cache
+C:\Users\36emc\OneDrive\Masaüstü\Horian Şifre Yöneticisi\Horian Şifre Yöneticisi\obj\Debug\Horian Ş.CF1B91B5.Up2Date
+C:\Users\36emc\OneDrive\Masaüstü\Horian Şifre Yöneticisi\Horian Şifre Yöneticisi\obj\Debug\Horian Şifre Yöneticisi.exe
+C:\Users\36emc\OneDrive\Masaüstü\Horian Şifre Yöneticisi\Horian Şifre Yöneticisi\obj\Debug\Horian Şifre Yöneticisi.pdb
+C:\Users\36emc\OneDrive\Masaüstü\Horian Şifre Yöneticisi\Horian Şifre Yöneticisi\obj\Debug\Horian_Şifre_Yöneticisi.güncelleme_form.resources
+C:\Users\emchorian\Desktop\Klasörler\Horian Şifre Yöneticisi\Horian Şifre Yöneticisi\bin\Debug\Horian Şifre Yöneticisi.exe.config
+C:\Users\emchorian\Desktop\Klasörler\Horian Şifre Yöneticisi\Horian Şifre Yöneticisi\bin\Debug\Horian Şifre Yöneticisi.exe
+C:\Users\emchorian\Desktop\Klasörler\Horian Şifre Yöneticisi\Horian Şifre Yöneticisi\bin\Debug\Guna.UI2.dll
+C:\Users\emchorian\Desktop\Klasörler\Horian Şifre Yöneticisi\Horian Şifre Yöneticisi\obj\Debug\Horian Şifre Yöneticisi.csproj.AssemblyReference.cache
+C:\Users\emchorian\Desktop\Klasörler\Horian Şifre Yöneticisi\Horian Şifre Yöneticisi\obj\Debug\Horian_Şifre_Yöneticisi.anasayfa_form.resources
+C:\Users\emchorian\Desktop\Klasörler\Horian Şifre Yöneticisi\Horian Şifre Yöneticisi\obj\Debug\Horian_Şifre_Yöneticisi.giris_form.resources
+C:\Users\emchorian\Desktop\Klasörler\Horian Şifre Yöneticisi\Horian Şifre Yöneticisi\obj\Debug\Horian_Şifre_Yöneticisi.güncelleme_form.resources
+C:\Users\emchorian\Desktop\Klasörler\Horian Şifre Yöneticisi\Horian Şifre Yöneticisi\obj\Debug\Horian_Şifre_Yöneticisi.hesap_frame_form.resources
+C:\Users\emchorian\Desktop\Klasörler\Horian Şifre Yöneticisi\Horian Şifre Yöneticisi\obj\Debug\Horian_Şifre_Yöneticisi.hesap_kaydetme_form.resources
+C:\Users\emchorian\Desktop\Klasörler\Horian Şifre Yöneticisi\Horian Şifre Yöneticisi\obj\Debug\Horian_Şifre_Yöneticisi.hesap_listesi_form.resources
+C:\Users\emchorian\Desktop\Klasörler\Horian Şifre Yöneticisi\Horian Şifre Yöneticisi\obj\Debug\Horian_Şifre_Yöneticisi.Properties.Resources.resources
+C:\Users\emchorian\Desktop\Klasörler\Horian Şifre Yöneticisi\Horian Şifre Yöneticisi\obj\Debug\Horian_Şifre_Yöneticisi.yuklenme_form.resources
+C:\Users\emchorian\Desktop\Klasörler\Horian Şifre Yöneticisi\Horian Şifre Yöneticisi\obj\Debug\Horian Şifre Yöneticisi.csproj.GenerateResource.cache
+C:\Users\emchorian\Desktop\Klasörler\Horian Şifre Yöneticisi\Horian Şifre Yöneticisi\obj\Debug\Horian Şifre Yöneticisi.csproj.CoreCompileInputs.cache
+C:\Users\emchorian\Desktop\Klasörler\Horian Şifre Yöneticisi\Horian Şifre Yöneticisi\obj\Debug\Horian _.CF1B91B5.Up2Date
+C:\Users\emchorian\Desktop\Klasörler\Horian Şifre Yöneticisi\Horian Şifre Yöneticisi\obj\Debug\Horian Şifre Yöneticisi.exe
+C:\Users\emchorian\Desktop\Klasörler\Horian Şifre Yöneticisi\Horian Şifre Yöneticisi\obj\Debug\Horian Şifre Yöneticisi.pdb
+C:\Users\emchorian\Desktop\Klasörler\Horian Şifre Yöneticisi\Horian Şifre Yöneticisi\bin\Debug\Horian Şifre Yöneticisi.pdb
+C:\Users\emchorian\Desktop\Horian Şifre Yöneticisi\Horian Şifre Yöneticisi\bin\Debug\Horian Şifre Yöneticisi.exe.config
+C:\Users\emchorian\Desktop\Horian Şifre Yöneticisi\Horian Şifre Yöneticisi\bin\Debug\Horian Şifre Yöneticisi.exe
+C:\Users\emchorian\Desktop\Horian Şifre Yöneticisi\Horian Şifre Yöneticisi\bin\Debug\Horian Şifre Yöneticisi.pdb
+C:\Users\emchorian\Desktop\Horian Şifre Yöneticisi\Horian Şifre Yöneticisi\bin\Debug\Guna.UI2.dll
+C:\Users\emchorian\Desktop\Horian Şifre Yöneticisi\Horian Şifre Yöneticisi\obj\Debug\Horian Şifre Yöneticisi.csproj.AssemblyReference.cache
+C:\Users\emchorian\Desktop\Horian Şifre Yöneticisi\Horian Şifre Yöneticisi\obj\Debug\Horian_Şifre_Yöneticisi.anasayfa_form.resources
+C:\Users\emchorian\Desktop\Horian Şifre Yöneticisi\Horian Şifre Yöneticisi\obj\Debug\Horian_Şifre_Yöneticisi.giris_form.resources
+C:\Users\emchorian\Desktop\Horian Şifre Yöneticisi\Horian Şifre Yöneticisi\obj\Debug\Horian_Şifre_Yöneticisi.güncelleme_form.resources
+C:\Users\emchorian\Desktop\Horian Şifre Yöneticisi\Horian Şifre Yöneticisi\obj\Debug\Horian_Şifre_Yöneticisi.hesap_frame_form.resources
+C:\Users\emchorian\Desktop\Horian Şifre Yöneticisi\Horian Şifre Yöneticisi\obj\Debug\Horian_Şifre_Yöneticisi.hesap_kaydetme_form.resources
+C:\Users\emchorian\Desktop\Horian Şifre Yöneticisi\Horian Şifre Yöneticisi\obj\Debug\Horian_Şifre_Yöneticisi.hesap_listesi_form.resources
+C:\Users\emchorian\Desktop\Horian Şifre Yöneticisi\Horian Şifre Yöneticisi\obj\Debug\Horian_Şifre_Yöneticisi.Properties.Resources.resources
+C:\Users\emchorian\Desktop\Horian Şifre Yöneticisi\Horian Şifre Yöneticisi\obj\Debug\Horian_Şifre_Yöneticisi.yuklenme_form.resources
+C:\Users\emchorian\Desktop\Horian Şifre Yöneticisi\Horian Şifre Yöneticisi\obj\Debug\Horian Şifre Yöneticisi.csproj.GenerateResource.cache
+C:\Users\emchorian\Desktop\Horian Şifre Yöneticisi\Horian Şifre Yöneticisi\obj\Debug\Horian Şifre Yöneticisi.csproj.CoreCompileInputs.cache
+C:\Users\emchorian\Desktop\Horian Şifre Yöneticisi\Horian Şifre Yöneticisi\obj\Debug\Horian _.CF1B91B5.Up2Date
+C:\Users\emchorian\Desktop\Horian Şifre Yöneticisi\Horian Şifre Yöneticisi\obj\Debug\Horian Şifre Yöneticisi.exe
+C:\Users\emchorian\Desktop\Horian Şifre Yöneticisi\Horian Şifre Yöneticisi\obj\Debug\Horian Şifre Yöneticisi.pdb

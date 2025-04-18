@@ -1,0 +1,196 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{DBA9150C-23E9-4E29-916C-43B1E0FA5171}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Horian_Şifre_Yöneticisi</RootNamespace>
+    <AssemblyName>Horian Şifre Yöneticisi</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Guna.UI2, Version=2.0.4.6, Culture=neutral, PublicKeyToken=8b9d14aa5142e261, processorArchitecture=MSIL">
+      <HintPath>..\packages\Guna.UI2.WinForms.2.0.4.6\lib\net472\Guna.UI2.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Design" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="anasayfa_form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="anasayfa_form.Designer.cs">
+      <DependentUpon>anasayfa_form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="giris_form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="giris_form.Designer.cs">
+      <DependentUpon>giris_form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="güncelleme_form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="güncelleme_form.Designer.cs">
+      <DependentUpon>güncelleme_form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="hesap_frame_form.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="hesap_frame_form.Designer.cs">
+      <DependentUpon>hesap_frame_form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="hesap_kaydetme_form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="hesap_kaydetme_form.Designer.cs">
+      <DependentUpon>hesap_kaydetme_form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="hesap_listesi_form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="hesap_listesi_form.Designer.cs">
+      <DependentUpon>hesap_listesi_form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="yuklenme_form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="yuklenme_form.Designer.cs">
+      <DependentUpon>yuklenme_form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="anasayfa_form.resx">
+      <DependentUpon>anasayfa_form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="giris_form.resx">
+      <DependentUpon>giris_form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="güncelleme_form.resx">
+      <DependentUpon>güncelleme_form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="hesap_frame_form.resx">
+      <DependentUpon>hesap_frame_form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="hesap_kaydetme_form.resx">
+      <DependentUpon>hesap_kaydetme_form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="hesap_listesi_form.resx">
+      <DependentUpon>hesap_listesi_form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="yuklenme_form.resx">
+      <DependentUpon>yuklenme_form.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Logo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\close.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\minus.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\lock.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\eye.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hidden.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\image.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Logo1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\command.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\email.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\phone-call.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\menu.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\search.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\magnifying-glass.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\refresh-page-option.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
