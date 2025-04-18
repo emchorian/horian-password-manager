@@ -82,4 +82,3 @@ Bu proje [MIT Lisansı](https://opensource.org/licenses/MIT) ile lisanslanmışt
 ## İletişim
 
 Proje hakkında herhangi bir soru veya geri bildirim için [36.emchorian.470@gmail.com](mailto:36.emchorian.470@gmail.com) adresiyle iletişime geçebilirsiniz.
-s
