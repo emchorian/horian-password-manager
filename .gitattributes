@@ -1,3 +1,0 @@
-# GitHub linguist override
-*.cs linguist-language=C#
-*.bat linguist-detectable=false
